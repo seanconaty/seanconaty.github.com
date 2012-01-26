@@ -1,0 +1,17 @@
+body {font-family:Helvetica,Arial,sans-serif;margin:0;}
+#header h1 {
+    background: #000 url(http://plaidmaker.org/generated/plaid-1068.png) top center repeat;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: #fff;
+    -webkit-text-fill-color: transparent;
+    font-family: "Trebuchet MS";
+    font-size: 172px;
+    letter-spacing: -.1em;
+    line-height: 162px;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+#page {width:960px;margin:0 auto;}
