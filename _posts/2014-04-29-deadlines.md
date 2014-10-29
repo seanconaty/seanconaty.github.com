@@ -23,4 +23,4 @@ This is a time constraint that is external. Opportunity is difficult to recogniz
 
 You can see an interesting example of an arbitrary deadline that motivates participants in a [histogram of finish times of over 9 million marathons](http://www.nytimes.com/2014/04/23/upshot/what-good-marathons-and-bad-investments-have-in-common.html). There are distinguishable spikes at each hour and half hour increment because runners set these round numbered-times to be their goals.
 
-When you're confronted with a deadline, it's helpful to know its purpose so you know whether or not you must meet it.
+So, it turns out, deadlines do serve a purpose and the ones that seem arbitrary are really just there to help you along. When you're confronted with a deadline, it's helpful to know its purpose so you know whether or not you must meet it.

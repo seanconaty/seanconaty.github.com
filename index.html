@@ -1,5 +1,21 @@
 ---
 layout: default
-title: Hi there
+title: Oh, the Tangled WWW We Weave
 ---
-Hi there
+
+<h1>Oh, the Tangled WWW We Weave</h1>
+
+<p>Thank you for visiting my place on the Internet.
+I build products for the web.
+Here I share some of my
+thoughts on software development.</p>
+
+{% for post in site.posts %}
+    <a href="{{ post.url }}">&#9733; {{ post.title }}</a><br>
+{% endfor %}<br>
+
+<p>In my rare, spare time, I like to work on <a href="http://plaidmaker.com">PlaidMaker</a>,
+a simple site that lets you design plaid patterns.</p>
+
+<p>I've also given a talk about how to use HipChat to collaborate better.
+<a href="https://www.youtube.com/watch?v=_Xvev_9LWC4">Check it out on YouTube.</a></p>
