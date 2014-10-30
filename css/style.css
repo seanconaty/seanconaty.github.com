@@ -1,9 +1,13 @@
-body {
+html {
     background-color: #E1F5C4;
+}
+
+body {
+    background-color: #fff;
     font-size: 1.8em;
     line-height: 1.6em;
     font-family: 'Libre Baskerville', serif;
-    padding-bottom: 100px;
+    z-index: -2;
 }
 
 body a,
@@ -36,17 +40,19 @@ h1, h2, h3, h4, h5, h5 {
 
 h1.site-title a {
     color: #FF4E50;
+    z-index: 1;
 }
 
 h1.site-title {
     position: relative;
     font-family: 'Sigmar One', sans-serif;
+    font-size: 100px;
     line-height: 1.2em;
     margin: 0.2em 0 0.1em;
     -moz-text-shadow:    -0.05em -0.05em 0 #FC913A;
     -webkit-text-shadow: -0.05em -0.05em 0 #FC913A;
     text-shadow:         -0.05em -0.05em 0 #FC913A;
-    white-space: nowrap;
+    z-index: 2;
 }
 
 h1.site-title span {
@@ -54,10 +60,10 @@ h1.site-title span {
     position: absolute;
     top: -0.1em;
     left: -0.1em;
-    z-index: -1;
     -moz-text-shadow:    -0.05em -0.05em 0 #EDE574;
     -webkit-text-shadow: -0.05em -0.05em 0 #EDE574;
     text-shadow:         -0.05em -0.05em 0 #EDE574;
+    z-index: -1;
 }
 
 h1.site-title a:hover {
@@ -90,4 +96,13 @@ h1.site-title a:hover {
     .job-title {
         text-align: right;
     }
+}
+
+.footer {
+    color: #888;
+    background-color: #E1F5C4;
+    margin-top: 2em;
+    padding-top: 1.6em;
+    padding-bottom: 1.6em;
+    font-size: 0.8em;
 }
