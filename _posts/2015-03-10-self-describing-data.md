@@ -41,12 +41,12 @@ I should hope that you determined these to be the following:
 <tr><th>Weight</th><td>215 lbs.</td></tr>
 </table>
 
-Now, not everyone would be able to recognize an IP address but I’d wager if you can’t recognize an IP address you probably don’t know what one is anyways. The only downside of not including the label is that you have no way of learning what you don’t know.
+Now, not everyone would be able to recognize an IP address but I’d wager if you can’t recognize an IP address you probably don’t know what one is anyways. The only downside of not including the label is that you have no way of learning what you don’t know. You can’t go and Google [“what is an IP address”](https://google.com/#q=what+is+an+IP+address).
 
-It is also interesting to note that a lot of the numerical data is only recognizable due to its formatting, whether it uses hyphens, spaces, degrees, periods, primes, parentheses or units of measurement. Without these cues it would be much more difficult to distinguish what the numerical data represents. You could even think of this formatting as a label, too, it’s just lighter weight.
+It is also interesting to note that a lot of the numerical data is only recognizable due to its formatting, whether it uses hyphens, spaces, degrees, periods, primes, parentheses or units of measurement. Without these cues it would be much more difficult to distinguish what the numerical data represents. You could even think of this formatting as a label too; it’s just lighter weight.
 
 Numbers with only space or hyphen formatting can be pretty ambiguous. I would argue that a social security number looks very similar to a phone number or any other type of number for that matter and would therefore require an explicit label.
 
-In the case of temperature and weight, it’s the units of measurement that inform what the data measures. I don’t need to tell you that lbs. are for weight and degrees Fahrenheit measures temperature.
+In the case of temperature and weight, it’s the units of measurement that inform what the data measures. I don’t need to tell you that lbs. are for weight and degrees Fahrenheit measures temperature. Or—if I do—perhaps you’re not educated enough to be using the application.
 
 Given that some data, along with its formatting, supplies the reader with enough context to distinguish what type of property it is, consider leaving it off your pages in order to free up space and tell a better story.
