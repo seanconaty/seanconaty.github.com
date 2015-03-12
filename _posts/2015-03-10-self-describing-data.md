@@ -49,4 +49,4 @@ Numbers with only space or hyphen formatting can be pretty ambiguous. I would ar
 
 In the case of temperature and weight, it’s the units of measurement that inform what the data measures. I don’t need to tell you that lbs. are for weight and degrees Fahrenheit measures temperature.
 
-Given that some data, along with its formatting, supplies the reader with enough context to distinguish what type of property it is, consider leaving it off your pages in order to free up space.
+Given that some data, along with its formatting, supplies the reader with enough context to distinguish what type of property it is, consider leaving it off your pages in order to free up space and tell a better story.
